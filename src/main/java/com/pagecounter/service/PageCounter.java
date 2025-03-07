@@ -1,4 +1,4 @@
-package com.service;
+package com.pagecounter.service;
 
 public class PageCounter {
     private Integer pageCounter = 0;
